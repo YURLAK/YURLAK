@@ -1,7 +1,8 @@
-# Hi there.I'm YURLAK👋
+## Hi there.I'm YURLAK👋
 
-### I'm a geek who is interesting about programming(Python,Linux).
+### I'm a Junior-School-Freshman who is interesting about Python and Linux.Now I'm using Fedora Workstation,GNOME.
 
+## My Talents
 ![Python](https://skillicons.dev/icons?i=py)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
