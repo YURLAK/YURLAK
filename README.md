@@ -1,6 +1,6 @@
 ## Hi there.I'm YURLAK👋
 
-### I'm a Junior-School-Freshman who is interesting about Python and Linux.Now I'm using Fedora Workstation,GNOME.
+### I'm a Junior-School-Freshman who is interesting about Python and Linux programming.Now I'm using Fedora Workstation,GNOME.
 
 ## My Talents
 ![Python](https://skillicons.dev/icons?i=py)
