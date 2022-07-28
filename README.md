@@ -1,6 +1,6 @@
 ## Hi there.I'm YURLAK👋
 
-### I'm a Junior-School-Freshman who is interesting about the Python Programming Language.Now I'm using MacOS,Monterey.
+### I'm a Junior-School-Freshman who is interesting about the Python Programming Language.Now I'm using MacOS 12.4.
 
 ## I'm learning & doing
 ![Python](https://skillicons.dev/icons?i=py)
